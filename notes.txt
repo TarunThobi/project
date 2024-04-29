@@ -1,0 +1,3 @@
+install dlib file
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted for venv
+
